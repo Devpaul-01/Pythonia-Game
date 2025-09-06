@@ -1,6 +1,3 @@
-# Pythonia-Game
-Got it buddy 👍 — let’s go clean and text-only, but still make it sound epic and professional so anyone seeing it on GitHub gets hyped. I’ll strip away the markdown styling and make it read like a proper project showcase.
-
 
 Battle of PyThonia
 
